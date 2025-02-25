@@ -2,7 +2,7 @@
 
 ###
 <div style="text-align: center;">
-  <img src="./home/main-logo.svg" height="100" width="100">
+  <img src="./public/Logo.svg" height="100" width="100">
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
  ## ✨ Meet Me Through JavaScript
 
- const About_Me= (() => {
+ const santosh= (() => {
   return {
     name: "Santosh Poudel",
     title: "Frontend Developer & Graphic Designer",
